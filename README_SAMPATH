@@ -1,0 +1,7 @@
+Instruction to Run the program:
+----------------------
+python3 main.py <list file name>
+
+The program will find the longest compound word and print it in the terminal
+
+
